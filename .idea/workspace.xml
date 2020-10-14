@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5735764-e499-493b-83b6-57e08dff4203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
       <updated>1601755140950</updated>
       <workItem from="1601755142025" duration="3879000" />
       <workItem from="1601892740930" duration="10000" />
-      <workItem from="1602661860812" duration="7563000" />
+      <workItem from="1602661860812" duration="7596000" />
     </task>
     <task id="LOCAL-00001" summary="Create an AWS EC2 Instance with Ngnix">
       <created>1602667991725</created>
@@ -77,10 +76,10 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="690" y="238" width="530" height="634" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1602667878527" />
-    <state x="455" y="222" width="1000" height="666" key="Vcs.Push.Dialog.v2" timestamp="1602669338039">
+    <state x="455" y="222" width="1000" height="666" key="Vcs.Push.Dialog.v2" timestamp="1602669441708">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="455" y="222" width="1000" height="666" key="Vcs.Push.Dialog.v2/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1602669338039" />
+    <state x="455" y="222" width="1000" height="666" key="Vcs.Push.Dialog.v2/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1602669441708" />
     <state x="515" y="429" width="584" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602669286303">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
